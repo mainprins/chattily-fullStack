@@ -61,6 +61,10 @@ npm run dev
 
 Here’s a quick look at Chatilly in action:
 
+![Alt text](screenshots/Screenshot)
+![Alt text](screenshots/chat.png)
+![Alt text](screenshots/chat.png)
+
 
 
 🤝 Contributing
