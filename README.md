@@ -54,3 +54,23 @@ npm install
 
 # Start the development server
 npm run dev
+
+```
+
+## 📸 Screenshots
+
+Here’s a quick look at Chatilly in action:
+
+
+
+🤝 Contributing
+
+Chatilly is open to collaboration! Feel free to open issues, submit pull requests, or reach out if you’d like to work together on new features or improvements.
+📬 Contact : prnncebajgain@gmail.com
+
+Created with ❤️ by Prince Bajgain
+Inspired by codesistency
+
+
+---
+
