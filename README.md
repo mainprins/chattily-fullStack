@@ -61,9 +61,10 @@ npm run dev
 
 Here’s a quick look at Chatilly in action:
 
-![Alt text](screenshots/Screenshot%202025-06-06%20125447.png)
-![Alt text](screenshots/Screenshot%202025-06-06%20125531.png)
-![Alt text](screenshots/Screenshot%202025-06-06%20125447.pn)
+![Alt text](screenshots/signup.png)
+![Alt text](screenshots/profile.png)
+![Alt text](screenshots/messages.png)
+![Alt text](screenshots/settings.png)
 
 
 
